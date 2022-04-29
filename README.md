@@ -22,4 +22,4 @@ Creating a bot that will recommend an investment portfolio for a retirement plan
 3) Lambda function
 4) Test cases
 
-![RoboAdvisor Test](https://github.com/dmerkulenko/-Robo-Advisor-for-Retirement-Plans/blob/master/Images/RecommendPortfolio-Chat-Bot-movi.gif?raw=true)
+![RoboAdvisor Test](https://github.com/dmerkulenko/-Robo-Advisor-for-Retirement-Plans/blob/master/Images/RecommendPortfolio-Chat-Bot-movi.gif)
